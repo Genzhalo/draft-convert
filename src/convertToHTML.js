@@ -1,7 +1,7 @@
 // import Immutable from 'immutable'; // eslint-disable-line no-unused-vars
 import invariant from 'invariant';
 import React from 'react';
-import ReactDOMServer from 'react-dom/server';
+import ReactDOMServer from 'react-dom/server.browser';
 import { convertToRaw } from 'draft-js';
 
 import encodeBlock from './encodeBlock';
