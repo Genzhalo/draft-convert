@@ -17,6 +17,6 @@ module.exports = {
     'immutable': 'Immutable',
     'react': 'React',
     'react-dom': 'ReactDOM',
-    'react-dom/server': 'ReactDOMServer'
+    'react-dom/server.browser': 'ReactDOMServer'
   }
 };
